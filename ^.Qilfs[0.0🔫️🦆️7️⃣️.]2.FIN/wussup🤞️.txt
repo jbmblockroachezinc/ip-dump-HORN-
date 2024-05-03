@@ -1,0 +1,602 @@
+🛸️its gonna be okay , just code ; yw ;) <3🛸️
+🌎️and gud luck 2 the weak/evil/fake/cowards🌎️(lazy stubborn etc w/e🌎️
+🔥️dubu/tey h8 upset cuz there cant be "mastabatory code(rz)" weaponized against me🔥️
+❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ 
+❤️‍🩹️UGLY C BUG?AND THEY ARE BEING EVIL? I PROMISE IT WILL BE OK. EVEN ANTIREZ'S GARBAGE 🫂️
+🐡️if his code is really that bad then well replace it & learn something . good.
+this doesnt' happen in MY code tho; so replace it. good u have thru . should be ez <3🔎️
+we cant go back in time and make him write better code fam...; the screen size thing is rather yucky, but we found it . we always find and learn eventually;🐢️this is a very tame managable and even damage proof codebase;🐧️chill🐧️🐢️🐡️
+😵‍💫️🥸️{just read the dox for w/e dumb fx he used
+ u know its something like fp instead of fd . (he used fp 2 )so u know its ignorance masquerading as intellect}😵‍💫️🥸️
+ 🖥️obv if double free error , first check is console size...🖥️
+❤️‍🩹️ 
+❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ ❤️‍🩹️ 
+🧝🏻‍♀️️
+🧠️ altho working on neural net would be good 2 ...🧠️
+💵️JSON1rst? = 2 inform subsequent "table structure"
+(it was really simple how js.html did it from json2csv...at least keep in mind🧠️💵️
+
+🤩️⛎️
+also u should beable 2 load / save levels now (does save still work ? how load in "EDITOR? " make snnak3d now 
+⛎️🤩️
+
+
+🤔️4.?.24🤔️{TEMP}
+are we gonna need to use first inode 2 store "meta process memory 4 passing
+i node data 2 other procs? I dunno but if not where else would u do it?
+SB?(prob not...)
+🤔️
+🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️🧊️
+🤖️WE RATHER AUTO ENTER "400 CHARS" WITH EXT MODUL
+>PUSHTHRU!🤖️
+📺️remember were actually gonna separate render from editor📺️
+🧸️👁️plus. now it looks like "double free fixed itself" ... 
+could be cuz i fixed trailing mem buggy...i cant keep track w/o DIGITAL versioning...👁️🧸️
+⚠️i did spot a file corruption on about 001001.pro & 1010.pro 
+after making a few inode, that left the "ZIP.PURE" UN UNZIPPABLE< 
+so be VERY CAREFUL THERE!🤥️Im sure u can find a fix if u focus on those fd creations or w/e <3🤥️
+🔬️watch in the /dir as files are created...🔬️
+🐕‍🦺️ []='\0'; <-Always fixes EVERYTHING (esp corrupt);🐕‍🦺️
+⚠️
+🥧️Also when you have FS , u can probably segment programs(like qil)
+even more using "in memory pointers  or w/e 🥧️
+😯️c was create w/o knowung of "fs" even the libs are kinda bad.😯️
+🈵️DONT WORRY ABOUT TRYING 2 FIX THE CORRUPT BLOX NAMES. THEY WILL AUTO FIX
+WHEN U ARE DOING MEM LOAD PROBABLY🈵️
+🪞️i would reproduce teh mem "minibuffoverflo" in the 'x.x_debug_out.txt' file
+*or any other thing. but its probably rooted with that. since most other stuff is obvious...
+🪞️
+
+🛗️REMEMBER: WHEN u amke inodes , otherinodes will still make blox (handle this SOONER
+(ez reasoning about. or things will get WEIRD quick🛗️
+🗺️
+ //🌐️ https://wiki.osdev.org/Ext2 🌐️
+ //🌐️ https://cscie28.dce.harvard.edu/lectures/lect04/6_Extras/ext2-struct.html 🌐️
+  //🥽️ inode.pdf]7.0003 🥽️
+ //https://docs.google.com/document/d/1PCPGKyO8nK70yoHv-qRD0PDSDwX3IUl1dDXGLJ33Yeo/edit
+ //🥽️ inode.pdf]7.0003 🥽️
+ 🖊️ https://azrael.digipen.edu/~mmead/www/Courses/CS180/FileSystems-1.html#EXT4 🖊️
+//📛️NAME? = directory . basically "1rst" inode is directory(technically 2nd 1rst is blank?)
+   //then when it fills up u will link 2 next one the same way?{🔏️inode holds a dir since its a file, it can overflow, does that make FINAL SENSE?🔏️}
+     //also what was all that "direct/ 1inderect 2indirect 3 indirect" stuff allabout? 
+     //*not quite?(yes. quite)there can be mult directories (OFC)(not same as "GroupDescriptor")
+<i think first is "inode actually, maybe inode of inode directories or w/e ? 
+<w/e we will just leave it blank 4 now <also find out what the other blank iblox are for
+<or we will use those {in our own -LGND}
+     //then when it fills up u will link 2 next one the same way...
+     //also what was all that "direct/ 1inderect 2indirect 3 indirect" stuff allabout? 
+     
+     💽️i think that 2nd directory assumes "THE DISK]0000"
+     (cuz other "directories can hold files as well...
+     (is this what all directory entries are 2 be ?(dir is just a file type. 
+     and its specified as a dir " cuz its holdling filenames/dir names< 
+     (try 2 make a dirname with same name as a fiel [in ext4];)
+     📄️file names wont be larger than '8-16-64 BITS OR W/E' OFC 📄️
+     👨🏽‍🎤️this is gonna level up our FS and may even make it 'production ready';so get it RITE👨🏽‍🎤️
+    
+    
+    📌️
+     //📛️🗃️{the first inode should point to the first directory <when fs is made> [disk]0000}
+    🔄️ *so first we will 'update' "0.fsmaqr]💾️🗄️" 
+    *.there is [ONLY 1 SUPERBLOCK & GD, @ TOP (ofstac)]
+    🔄️
+     📛️🗃️
+     📌️
+    
+ 🤯️   [THIS IS THE ONLY THING ONLINE THAT EXPLAINS EXT DIR ENTRIES] 🤯️  
+🌐️    https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout#Hash_Tree_Directories🌐️ 
+     
+    ⭐️  Directory Entries 
+    Linear (Classic) Directories 
+    Hash Tree Directories  ⭐️ 
+      🤯️  
+🗺️     
+     📆️5.1.24}📛️ 
+📆️4.30.24}
+⭐️
+💾️🔫️[RE-RELOAD]
+🔫️>back 2 reload 4 now.
+⭐️
+🈵️DONT WORRY ABOUT TRYING 2 FIX THE CORRUPT BLOX NAMES. THEY WILL AUTO FIX
+WHEN U ARE DOING MEM LOAD PROBABLY🈵️
+7️⃣️
+📪️finished kilo[pg6] doesn't even show letter count.
+ ♻️bad dont mix with good... seperate responsibility if u can
+☘️ur lucky its not worse🌵️🍀️
+♻️
+🗑️
+its nearly garbage code (twas free!). if it has 2 be replaced w/e ; 
+its nice 2 have infrastruct/direction maybe gpt
+has some pointers? or w/e do w/e u were gonna do b4
+kilo🗑️
+(w/e u do im sure will be more modular. and
+load/sv will be reusable as well . qilo is kind of a mess
+but if it works w/e ; im going 4 quantity right now 
+2 hit critical mass{struct+4sho&tell}. we can fix minor bugs later. +nn / halo may fix these things auto.
+📪️
+🧘🏽‍♀️️if u want peice of mind u may fix the double free error. 
+(breaks on 400 big screen or 48 smol screen, w/e
+but its relegated 2 renderer. 
+u may wanna fix pass file logic 4 apps first. 
+cuz we can and may have 2 replace parts of renderer w/e
+😰️🪰️u shouldn't worry about it tho tbh its nothing🪰️
+(theres a renderer in hex edit but i bet its similiar etc w/e
+u can do more renderer research w/e- (i wonder if it happens if renderer is seperate (may still break but shouldnt affect "txtfs" )
+🤡️
+>i wouldn't even type this if not being constantly
+physically assaulted]that has 2 stop
+🤡️
+😰️
+🧘🏽‍♀️️
+✅️last working st8 (65 include)✅️
+^.Qilfs[4.3]🔫️🦆️]fr].PURE
+
+(dunno why 65 lock but ignoring that 'term size is diff issu'
+✅️✅️✅️✅️✅️✅️✅️✅️✅️
+6️⃣️656️⃣️ is a whole new problem . pinpoint it 
+and i bet its an ez fix. was it even doing that b4  ?
+(on big screen? -> we can just replace that 1 'if'{}...)
+
+^.Qilfs]🦄️🦔️]-i]PURE yea, 
+also : ^.Qilfs]🦄️🔫️🦔️[1.ireld]PURE (seeking latest)
+(swap or diff should be ez soon we will do real vs'ing..:/)
+⭐️
+^.Qilfs]🦄️🔫️🦔️[2.ireld]PURE
+^.Qilfs]🦄️🔫️🦔️[3.ireld]PURE
+
+^.Qilfs]🔫️🪲️2.2.0000.PURE
+^.Qilfs]🔫️🪲️2.2.0001.PURE
+(quite  a few pass 65, lately...
+^.Qilfs]🔫️🪲️2.2.0004.PURE
+
+even
+^.Qilfs[4.0]🔫️🦆️]PURE
+^.Qilfs[4.2]🔫️🦆️kln]PURE
+(now im wondering if there was anything wrong...)
+
+✅️last working st8 (65 include)✅️
+^.Qilfs[4.3]🔫️🦆️]fr].PURE
+
+(dunno why 65 lock but ignoring that 'term size is diff issu'
+✅️✅️✅️✅️✅️✅️✅️✅️✅️
+🔒️
+^.Qilfs[5.0]🔫️🦆️]0000.PURE
+🔒️
+⭐️
+🔰️
+🤩️at least we have clarity of the REAL cause & differentiation of bugs🤩️
+🪛️if screen is "BIG" it will simply STOP @ 6️⃣️656️⃣️ (wont even write new 2 debug!,
+i think if u keep screen big u can handle this ♥️<3🪛️
+
+ 📍️stops doing after i outed a debug near memset . but will still crash @ 64 instead of
+ stopping... very interesting stuff.. DONT WORRY IS FIXABLE. 
+ PROTIP: GOOGLE W/E 'MEMSET' OR W/E , u can always replace it <3📍️
+ 💔️the double free really seems 2 have something 2 do with "TERMSIZE" can we fix that 4 
+ him or w/e . its not a big deal fix 65->then load in mem pls. w/e💔️
+ 📆️4.29.24}
+ 📌️
+ 📮️its not longer putting junk data, but wont  read past 65 , is it still putting in a bloc? 📮️
+ 🤯️double free error only happens when terminal is "smol"⁉️ r u fucking kidding me?⁉️🤯️
+ 🐛️so theres 2 bugs but there not related...?🐛️
+ 🖥️memset(&row->hl[match <-maybe the culprit here (antirez written code...ofc it sux...)
+ maybe fix 6️⃣️ 656️⃣️ first but this is bad...(can we replace the fx?)yes ofc. 
+ its gotta be better than writing ur own renderer.😵‍💫️🥸️{just read the dox for w/e dumb fx he used
+ u know its something like fp instead of fd . (he used fp 2 )so u know its ignorance masquerading as intellect}😵‍💫️🥸️
+ 🤼‍♂️️its semi-garbage code obv cuz it cant handle new mallocs w/o breaking in conflict...
+ can u fix teh conflict? 🤼‍♂️️
+
+ 🖥️
+  📌️
+  🆕️DOUBLE FREE ERROR is new. other is fixed
+ {it was always happening btw . i ran one and it didn't happen then happened...weird.has 2 do with program mem? messy allocs?}
+ 🔬️will be good 4ever 2 know why this would happen... sux.🔬️
+ 
+ 
+ ❤️‍🩹️fixed that. i noticed this only happens when terminal is smol... wtf; 
+ otherwise it stops pulling at 65
+ 
+ stdBlockBuffer_1 real problem is stdBlockBuffer_1 is already putting junk data...
+ (📮️its not longer putting junk data, but wont  read past 65 , is it still putting in a bloc? 
+ ❤️‍🩹️
+ 📍️can we pinpoint it? | 🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️
+🧟‍♀️️ Std_register_block_Inode()🧟‍♀️️ <this is bad boy culprit -- etc fix it. 
+ 🧟‍♀️️also why does it keep dissapearing? 🧟‍♀️️🧟‍♀️️🧟‍♀️️🧟‍♀️️
+ 
+ 🗑️
+ does it happen when loading in data ? do first?
+ (i dunno bout that) 📍️
+ 🆕️ 
+ 
+ 
+ 💔️I HAD TO REMOVE FREE() OR IT DID A DOUBLE FREE ERROR !
+ ⚙️i still haven't hit a limit for "2.load"...⚙️
+ 🦆️*doesn't fix entire codebase either, breaks @ 64...
+ due 2 memory =💔️ double free or corruption (!prev)💔️ 
+ ❗️in some way it does fix. thisis a new problem but still with 🦾️ it seems... , 
+ 🔥️(it exits b4 returning "FULLSUM" so thats helpful🔥️
+ 
+ (it always dies in header HOW , WHY!? )🔥️
+ 👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️
+ ////🦾️ why must we still "-1" unlike in ☯️STD_binBuff2inodes_H()🦄️
+global_iblox_ct = Std_read_iblox_count_H(std_superBLockFilename_H) -1;
+//🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️
+i think this is the problem and clearning it up will 
+get us back up 2 speed {2 birds 1 stone ❤️‍🩹️}
+ 🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️
+ meaning this btw 📍️()📍️
+  👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️👩🏿‍🏭️
+ //🧠️🧠️🧠️®️®️®️🧠️🧠️🧠️®️®️®️🧠️🧠️🧠️®️®️®️
+// confusing ; but important. better dox? 
+int Std_register_block_Inode(char *returnProDirString_R){
+printf("in task(Std_register_block_Inode)?🧟️➕️➕️\n");
+ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️
+   obv breaks here)🧟️➕️➕️
+~                                                               read_inode_count_H)🧟️➕️➕️❗️
+~                 local_BlockBuffer_0)🧟️➕️➕️
+ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️ 📟️
+🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️🔥️
+🦆️
+ ❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️🦉️will come back 2morrow (ismonday)🦉️
+ // this ifixes a skip that happens only in 🦾️
+// it also fixes double malloc break. soo.... im leaving it 
+// but it means this code is ugly🦆️
+if (fullSum == -256){
+fullSum = 0;
+}
+//🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️🦾️
+❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️❤️‍🩹️
+ 📪️
+ 
+
+💡️'-256' is supposed 2 say '0' : but the iblox count didn't inc till next!"WHY!?" fix  that then go 2 '96' and see if it's fixed.
+
+❗️(its not 
+global_iblox_ct = 1  
+iCount = 16  
+local_AsciiBuffer_1 = 0000000000110110  
+fullSum = 0  
+❗️
+
+Std_read_iblox_count_H() < wanna cut the bs first since its a math issue?
+💡️
+🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️fc ={FS} = '2.qi.lngn]🖌️🦾️]0000.c'
+int fullSum = STD_writeToInodes_H( filename3,stdAsciiBuffer_1, localDropCount , global_inode_ct );//📌️
+
+📠️🎰️STD_writeToInodes_H()' ONLY exists in '2.qi.lngn]🖌️🦾️]0000.c'🎰️
+🤓️
+(technically its used properly in header 4 "2.load" 4 "int STD_binBuff2inodes_H("
+(so ur input must be bad)
+☝️
+int fullPosition =  STD_writeToInodes_H( filename_arg,local_AsciiBuffer_1, i , global_inode_ct);
+☝️
+🤓️
+📠️
+🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️🧛🏻‍♀️️
+📭️im actually not sure what that is below;looking at it . fix fullcount first <3 
+🤢️fix this first. 📌️
+Std_register_block_Inode()🦄️
+
+it maybe a pain(with 'help') but just use debugs and "FIRST PRINCIPLES" its not THAT bad...
+fix it while its fresh in ur mind pls. 
+
+✳️i actually dont think its theuglycode causing the bad -256 or w/e but it cant help...✳️
+🤢️
+🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️
+
+ 📆️4.28.24}
+ 📮️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+ ^.Qilfs]🦄️🔫️🦔️[2.ireld]PURE < this is the last "Workingest st8" >[3]> i dunno what changed but it wont even "workest"?
+
+WORKINGEST? > YEA , IT ONLY MAKES I NEW 'IBLOC'
+(IT WONT DO 32)... I DONT REMEMBER THIS EVER BEING A PROBLEM
+BUT APPERANTLY IT WAS...
+🌍️always was, looks like u were just using wrong binary , may wanna compile them all at once...🌍️
+👩🏻‍🏭️U CAN PROBABLY JUST DEBUG WHAT U HAVE; 
+AND FIX THAT INSTEAD OF HAVING 2 GO BACK IN TIME. ITS NOT REALLY THAT BIG OF A DEAL EITHERWAY ADN THERES MORE STRUCT CODE HERE.👩🏻‍🏭️♻️ONCE THEY STOP ASSAULTING ME/LYING OFC♻️
+👨🏽‍💻️I REALLY WANT THIS FIXD B4 ANYTHING ELSE . 
+THEM PHY ASSULTING ME ISN'T AN EXCUSE JUST PUSH EVERYTHING BACK
+
+🦉️do some of this at end of day at ur discretion+🪦️there looking 4 ops 2 be peices of crap so yea🪦️🦉️
+👨🏽‍💻️
+😉️(Its probably an ez/duh fix.😉️
+🔧️
+it doesn't look like an ez fix in [3], 
+may have 2 roll back 2 [2] but thats not really that bad.
+*yea in "2" it skips "16" (-256) but puts everything else
+right , 
+(so its close 2 full thru therefor easist 2 work on )
+(fixing this may even fix "all problems'
+then u wuld just rename ur fx + w/e wasn't right w/e
+
+❔️im guessing the problem is "FULLSUM"?
+as long as this inodes past 32 were good... ❔️
+
+❕️also "highlighting/selecting" is turned of in editor...
+not good 4 copy pasting problems...❕️
+
+📮️
+Std_read_iblox_count_H() <-STILL looks like this might beruit
+of problem ,better 2 fix this [2] tho than the otherone[3]
+cuz there was another bug introduced.
+🪳️at least the choice is ez
+{smol bug that was always there > new bugs ontop of oldbugs}
+
+from ther i guess i wonder how the old one workd...
+{M8 IT REALLY NEVER WORKED PAST 32!}
+hard 2 believe but obviously tru...
+🙄️i feel like if we clear up that ugly function 
+this is gonna get alot clearer...🙄️
+☘️
+u dont need 2 go back further than [2] tho i promise u 
+in this way u are SUPER FUCKING LUCKY TBH ☘️
+🪳️
+🪲️
+fixinging this using hindsight should produce much 
+cleaner/fixable/readable code ; it is wut it is.🪲️
+🔧️
+🛠️i was able to pull the old fx into new. all were missing is those renames so w/e 
+fix this first 
+
+❤️‍🩹️its like nothing happened cuz this was always a bug]happy learning ;) ❤️‍🩹️
+🛠️
+
+ 📮️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️❗️
+  🔼️wussup? 🔼️
+  🗨️u wanna compare these 2 files and figure out what were doing;
+  2.load.asc.iinkez[⚙️☯️]0000.c 
+2.qi.lngn]🖌️🦾️]0000.c 
+💬️
+0.no magic, 🪄️ no inode is made till u do a proc or otherwise 
+1.int newInodeCt = Std_register_block_Inode(local_proDirString_0); //®️🦄️ 
+curious about this , wuts it doing ?(2.load.asc.iinkez[⚙️☯️]0000)
+🦄️{header fx() also use this 4 inodect? is it iblox or need change?, its obviously iblox count.. u can skip it but its confusing...}
+
+⚠️Std_register_block_Inode{this is actually really ugly code due 2 misunderstanding of 8-10 bloxVSiblox...(it subs 2 ) fix this whenever preferbly now? also u can skip it...}🏥️at least its docsd#FOUND💉️🏥️
+🐛️just fix/replace it . its the only bug. but it spreads 2 far nip it🌹️🐛️j
+⚠️
+2.
+💬️
+  🗨️
+
+
+   🔼️ 🔼️ 🔼️ 🔼️ 🔼️ 🔼️ 🔼️
+📆️4.27.24}
+>inode reader and incer is done as a STD4All. 
+(just run it wherer u mean 2 inc inode (whenver u create one
+then we can decide how 2 pass it , where 2 store the correpsonding
+file name etc (will ref ext2 if we need w/e)
+📆️4.26.24}
+
+💌️✅️✅️✅️✅️✅️✅️✅️
+block_count = total block count = 8+
+iblox_count = count of "selected/1rst" inode = 1+
+🏓️
+(so its exactly wut it should be 
+1; we will make a diff total inode counter
+(and preferably right shift those current ones <3{it reads superblok <3 }
+💌️✅️✅️✅️✅️✅️✅️✅️
+^.Qilfs]🦄️🔫️🦔️]1[i-reld]0000 📌️
+📆️4.25.24}
+^.Qilfs]🦄️🔫️🦔️]-i[i-reld]0000 📌️
+📆️4.25.24}
+what will it take to load into editor? 
+or should we just start mex first? 
+
+☝️i think we should at least "get the ball rolling on something"
+*everything is gonna need 2 load from file. i wanna load "NN" data from file...
+
+; would that be better dont using something that doesn't require renderer? 
+
+>yea just load 1 inode into another using a "template file/fx"
+>then whoever can just "call that modularly"; ez pz
+(using inode number or w/e)
+☝️
+📆️4.17.24}
+🤯️-1. we never actually "load into editor" ,ofc im sure well get 2 it , w/e🤯️
+💭️its counting "iblox , not inodes =>cuz load and editor use 2 diff inodes...
+(and more procs will...) 
+u may wanna clarify that...💭️
+
+🪚️0. decouple renderer again ! 3.rDR]Qil]🎬️🎞️📽️🖥️]???
+make sure u have save load first or w/e i dunno
+
+(should just be a copy but one doesn't do w/e i dont remember. 
+🪚️
+🐍️
+1.making load /save playable snake starting.4 REAL THIS TIME🪱️🐍️
+📆️4.17.24}
+📄️
+❌️✅️
+2.qi.lngn]🖌️🦾️]0000.c✅️{fix is ez , just minus -1}
+^.H.orn-uniHeader[🦄️]0006.c✅️{un minus 1}
+
+0.inode.maqr[🧠️🎫️]0000.c✅️💔️{is using 2 make inode. is that bad!?}
+💔️2bh i dont think its used at all...💔️
+❤️‍🩹️❤️‍🩹️
+❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️❌️
+0.fsmaqr]💾️🗄️.c❌️
+0.sb.maqr[🦸‍♂️️🎫️]0001.c❌️
+1.kb2.fs]⌨️🗃️]0000.c❌️
+2.convert.bases[⚙️☯️]0000.c❌️
+2.load.asc.iinkez[⚙️☯️]0000.c❌️
+📄️
+🩺️
+🚧️
+
+
+
+❤️‍🩹️
+its done now . fix it. its ugly af. first time used dynamically so should be ez fix. was bad math / reading
+make it right...🎣️or wait till u understand YOUR FS / INODE scheme better w/e im sure it will happen
+🎣️💔️if u dont fix it now u may {ACCIDENTALLY}regret it.../when new code u write doesnt' work right and confuses u for possibly days? fix it. 💔️
+
+👨🏾‍🏫️u will have 2 fix "each occurence in all code , 
+
+🍑️butt, also u can suck all ur code into the TXTFS , and search it for each occurence, theoretically 
+using "side tools ./exe sys mod" and dumping 2 "CLI PRO MEM ... 😛️kinda like a db query;is a db query ...😛️ esp if u get 🤯️insert🤯️, db's are kinda like a blind[query riddle elder] text editor...🪶️u think "REDIS" is this ill?;);u can kinda do this kinda stuff with bash/awk...🪶️🍑️
+
+
+ 👨🏽‍🚀️Std_read_inode_count_H = Std_read_inode_count_H() - 1 . dumb. but will fix after full thru . will be ezr <3
+  👨🏽‍🚀️❤️‍🩹️
+📆️4.17.24}
+write2pos = (is giving wrong number for editor always 
+(is it cuz "inode count"? 
+(ITS WRITING 2 WRONG POSITION AFTER "0" CUZ THE MATH IS INCONSITENT
+IM HOPING ITS BAD INPUT (MAYBE INODE COUNT IS WRONG)
+
+(NOTHING IN 🦾️ DEPENDS ON INODE COUNT SO IT SHOULD BE EZ FIX...)
+🧰️
+🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️🧘🏽‍♂️️(KcELL : 
+u gotta have some patienCE!. this doesn't exist. and theres no 
+good debug tools. , 💩️🧘🏽‍♂️️{EVERYTHING IS FINE/ZEN}
+
+
+itll get there , it is wut it is. it shoudln't be that hard either cept ur debug is blocked.and u keep hitting ur head blindly against the wall..🧰️
+🧘🏻‍♀️️ITS SO CHILL AND NOT A BIG DEAL THAT THE FACT THAT THERE TROLLING SO HARD IS SUS AF.🧘🏻‍♀️️
+🦈️<>but whys it takign long time waaaaaah 🍼️😭️
+cuz its just chill mindless button mashing and ur being super impatient
+and fearful a bout a super chill modular codebasez.
+🍼️😭️(continual bb behavior today🍼️😭️(
+👨🏽‍🚀️🖨️
+i may have u write debug lines 2 "debug.txt" since thats
+easier than assembly and our "console log is clogged w/e" be blessed
+(better sooner than later if ur 1line debug isn't enuff...)
+👨🏽‍🚀️🖨️
+
+🐡️The only other weird thing is "w/e data is stored in actual i node, i dont think its registering "new blox" for w/e reasno 
+i dont know if u even coded that yet or were waiting...cuz it doesn't matter?🐡️
+🧘🏻‍♀️️this is fine.on trac the fx already/still works , chill🧘🏻‍♀️️
+📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️
+📆️4.15.24}switches 2 new inode just fine , but doesn't use the new file? 
+(i didn't factor out just replaced code..., cuz things are
+a bit diff.
+👨🏽‍🚀️
+i may refactor just 2 make it Write 2 file (heavy violence and trolling right now may send all 2 bed tho)*and would still be on track whnever u have 2 send them 2 bed👨🏽‍🚀️
+📮️its not NEEDING a refactor, the formula went negative...
+it writes when it goes back pos...📮️👩🏻‍🏭️
+i will fix w/e is wrong with the negative. and compare that 2 
+header_FX...👩🏻‍🏭️
+*were just gonna use header. and pull it out the "loop"
+then pass "i" or var from "qilo"
+📆️4.15.24}LOAD= ON]
+
+2.can it load "INTO quilo?" also...
+1.(as well as just replacing the old in quilo with this new one
+📆️4.14.24}
+getting there, just make sure reading it is ez. so we can reuse it . ur really on the right track...
+
+*its making 2 blocks for some reason and obv using the second one...duh? 
+(writes first 2 2nd but then the rest 2 3rd...
+📆️4.13.24}
+no longer crashes , but is making new inode instead of storing , imo. 
+(was 2 diff problems , ez fix tbh, lets go)
+📮️seems like its actually writing after the "buffers limits" 
+instead of moving 2 front of new inode...
+(can we exit after inode is made or w/e first💡️ ;) ? 
+ 📮️
+📆️4.12.24 =
+📮️that is helpful. i thnk theres all kindsa of malformation going on 
+once the new inode was supposed 2 be made
+
+(things are being made in main, and i think it made a "NEW INODE"
+(instead of putting in the old one ... um no... )
+📮️
+👨🏽‍🚀️i would just run like 5 mallocs of diff sizes at diff places and see wut happens ;)👨🏽‍🚀️
+🧿️ofc we can allocate by [#]but u will have 2 figure out "strsize()" urself w/e;
+w/e its not the end of the world is the point , the codebase is small and modular
+and this happened...it is wut it is feels messed up but the program was gonna fail so w/e🧿️
+
+🤓️i dont even think its the "system(exes)" cuz they've neever been a problem 
+so it may not be that bad :/ (u could probably diagnose by swapping one of hte earlier mallocs and leaveing the later one ;) (>as opposed 2 using "GDB/GHIDRA LMFAO") ;
+ps dont use that "all free()" thats just a distraction and its gone <3z🔍️🤓️
+👨🏾‍🏫️if worse comes 2 worse, just dont use malloc. evertime i replace malloc with 
+# the code works till next malloc. (or go backwards and see which "corrupted"
+ w/e its not magic👨🏾‍🏫️
+ 📦️i wanted 2 allocate in a seperate function like i did for the 
+ "program files(they never corrupted...)
+ i think its header mallocs that "keep using or w/e same "memory /namespace"
+ make it corrupt ez. i dont think we actually ran into this b4 therefore and its a 
+ new problem. 
+ but it doesn't explain why inodes worked at some point(not provable!<but not anymore...)🏚️w/e they will work after this, they obv werent gonna work ....🏠️ 📦️
+ 
+ ❗️Heap corruption in C
+Stack Overflow
+https://stackoverflow.com › questions › heap-corruptio...
+Oct 13, 2010 — You've allocated too small a block, and then written more bytes to it than you've allocated, which overwrites bookkeeping information next to ...
+
+
+https://stackoverflow.com/questions/3923290/heap-corruption-in-c
+ ❗️
+📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️📆️
+📆️4.12.24 =
+🦄️
+LOCKING UP HERE (IN .H)
+in task(Std_register_block_Inode)🧟️➕️➕️
+
+📆️4.11.24 = "first inode is loading/printing perfect now." i ahven't gone past that...
+📦️
+10 	0A 	0000 1010 	&#10; 	LF 	Line Feed  < (lets render this soon
+📦️
+📆️4.5.24 = 
+⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
+⏺️
+we have "ascii fd 2 binary fd" now. 
+⏺️
+now that "binary fd" needs 2 go into inode
+⏺️
+(and we need 2 make sure its a diff inode than the one that '2.qi.lngn]🖌️🦾️]0000'
+is about  2make <3 
+👨🏽‍🚀️
+do 2 "inode" in same fx <or  there is no way 2 pass "FILENAME" which we watn now! + hash? w/e>
+🎣️
+(can drop .bin into a "user[]/TEMP/" dir *if u want ) u dont actually NEED it .(but the whole point of doing this was 2 examien files, tho u should build in 2 examine entire inode and DUMP "THAT" instead ;) <3 ) 
+🎣️
+ 👨🏽‍🚀️
+⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️⚙️
+📆️
+
+
+
+
+
+
+///////////////////////////////////////
+
+//////////
+
+https://github.com/ckormanyos/xxd/tree/main/src
+
+
+https://www.geeksforgeeks.org/program-to-convert-ascii-to-unicode/
+
+
+https://github.com/ProgrammingSimpleSteps/c-examples/blob/main/number-systems/binary-to-text/main.c
+
+🤞️
+https://stackoverflow.com/questions/41284651/binary-to-utf-8-in-c
+🤞️
+
+On Linux, UTF-8 is the 'native' encoding for all strings, and is the format accepted by system routines like fopen()
+
+https://unix.stackexchange.com/questions/112216/which-terminal-encodings-are-default-on-linux-and-which-are-most-common
+
+
+
+
+
+
+🧝‍♂️️
+just go with "UTF-8" for now unless it doesn't work
+
+(this is the "best it does..."
+
+👋️🌍️would be nice 2 convert hello world 2 "binary"
+convert it back 2 "utf-8" and it actually run.
+👋️🌍️
+🧝‍♂️️
+
+
+
+
+
+

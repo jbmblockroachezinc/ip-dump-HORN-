@@ -1,0 +1,109 @@
+📝️
+🗺️TXTFS]LGND🗺️
+🗾️{CURRENT STATE}🗾️
+
+0.fsmaqr]💾️🗄️.c > {
+system("./+x/0.sb.maqr[🦸‍♂️️🎫️]0001.+x") ;
+system("./+x/0.pro.maqr+[🎫️]0001.+x") *4 + 1 ;
+0.SB - > made first (seperately , duh🥴️ ^)
+1.001
+2.010
+3.011
+4.100 		<leaving these blank cuz why not. w/e >
+		<logic shouldn't use "pos" just offset ref...>
+5.101 = +1]this IS KBD BUFFER AND COUNTER ⌨️🧊️
+		//👩🏻‍🏫️pro-maid from here V//📛️
+110-]THIS IS THE INODE [*for 2.load | 2.qi ]
+
+111]-FIRST  INODE BLOC [*cp]
+1000]2ND INODE BLOC	[*cp]
+______________________
+}
+
+🗾️
+🗽️{IDEAL STATE}🗽️
+📛️
+//👩🏻‍🏫️pro-maid from here V//📛️
+110-]THIS IS THE 1rst INODE (it points 2 dir[0000]?
+111]-FIRST  INODE BLOC {IS A DIR } [any others will probably be "FRAGMENTED"]
+{wut goes in here? "DIR]0000" = filename|/.txt!
+1000]2ND INODE BLOC ...w8 wut? 😵‍💫️🌀️
+🗣️https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout#Hash_Tree_Directories🗣️
+ Inline Directories
+
+The first four bytes of i_block are the inode number of the parent directory. Following that is a 56-byte space for an array of directory entries;
+🗣️
+
+❌️erase this draft]0002❌️
+🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️
+110-]THIS IS THE INODE 
+holds disk]0000 (but that is it? w/e u want
+111]-FIRST  databloc [is a dir]name of disk]0000 ? (if u want?)
+1000]2ND INODE BLOC [would be a proc's inode. then would have 1 
+dir saying name of proc, this points 2 1001 as dir, plus all files
+created for this proc...]
+1001] name of first proc (or loaded file w/e)
+1002]first data bloc for first proc
+1003]{first data bloc if new proc / dir is made for "disk]0000"?
+🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️🚧️
+❌️
+❌️erase this draft]0001❌️
+0110-]INODE-?
+0111]
+1000]
+❌️
+❎️X-INFO❎️
+🌐️ https://cscie28.dce.harvard.edu/lectures/lect04/6_Extras/ext2-struct.html#INODE-TABLE 🌐️
+2.3. Directories
+ 	
+
+This definition comes from the Linux Kernel Documentation with some minor alterations.
+
+A directory is a filesystem object and has an inode just like a file. It is a specially formatted file containing records which associate each name with an inode number. Later revisions of the filesystem also encode the type of the object (file, directory, symlink, device, fifo, socket) to avoid the need to check the inode itself for this information
+
+The inode allocation code should try to assign inodes which are in the same block group as the directory in which they are first created.
+
+The original Ext2 revision used singly-linked list to store the filenames in the directory; newer revisions are able to use hashes and binary trees.
+
+Also note that as directory grows additional blocks are assigned to store the additional file records. When filenames are removed, some implementations do not free these additional blocks. 
+🗽️
+🗺️
+📝️
+📄️
+✏️
+inode = Superparent  = holding dir&*->disk]0000
+directory = superDir = "disk]0000">filename
+
+*also inode were supposed 2 be storing their
+child blox *-> 's; ez 2 add, but yea...
+✏️
+📄️
+📄️✏️✏️📄️
+
+📝️
+
+🔬️
+https://unix.stackexchange.com/questions/387319/how-come-that-inodes-of-directories-store-filenames-in-ext4-filesystem
+
+
+🔑️
+A directory's data contains dirent entries. Each directory entry contains a filename and a pointer to an inode. An ext4 inode can contain the data contents of a small file for efficiency, so that it doesn't have to perform yet another block read.
+
+The value of "small" can be 60 bytes with file attributes, or up to 160 bytes if extended file attributes aren't being used.
+🔑️
+
+https://ext4.wiki.kernel.org/index.php/Ext4_Disk_Layout#Hash_Tree_Directories
+
+ Inline Directories
+
+The first four bytes of i_block are the inode number of the parent directory. Following that is a 56-byte space for an array of directory entries; see struct ext4_dir_entry. If there is a "system.data" attribute in the inode body, the EA value is an array of struct ext4_dir_entry as well. Note that for inline directories, the i_block and EA space are treated as separate dirent blocks; directory entries cannot span the two. 
+📝️
+🧸️🗑️{NOTHING}🗑️
+were gonna be deleting a lot of procs... they can be stored in 
+blockchain history... 
+
+but i think u wanna pay attention 2 the "ADVANCED" deletion strategies
+deventually
+🗑️
+🧸️
+
